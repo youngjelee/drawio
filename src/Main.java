@@ -1,23 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
 
+        System.out.println("test9999999999999999999") ;
 
-        // feature/test-1 개발
-        System.out.println("feature/test-1");
-
-
-        //feature/test2 개발완료
-        System.out.println("feature/test2");
-
-        //feature/test3 개발완료
-        System.out.println("feature/test3");
-
-        System.out.println("feature/test4");
-
-        System.out.println("/feature/ ff ") ;
-
-        System.out.println("개발11 ") ;
 
 
     }
