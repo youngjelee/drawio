@@ -7,6 +7,10 @@ public class Main {
         System.out.println("feature/test-1");
 
 
+        //feature/test2 개발완료
+        System.out.println("feature/test2");
+
+
 
     }
 }
