@@ -1,12 +1,9 @@
-public class Test2 {
+public class Test3 {
 
     ///
     ///
     ///
     public void a () {
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-    }
-    public void b(){
-        System.out.println("bbbb");
     }
 }
