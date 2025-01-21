@@ -12,4 +12,7 @@ public class Test2 {
     public void c(){
            System.out.println("c");
        }
+    public void c222(){
+           System.out.println("c");
+       }
 }
